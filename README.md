@@ -21,7 +21,7 @@
 
 
 
-### Raise a PR :rocket: and get [Hacktoberfest 2020](https://hacktoberfest.digitalocean.com/) T-Shirt :smile: 
+### Add your name in Contributors.md, Raise a PR :rocket: and get [Hacktoberfest 2020](https://hacktoberfest.digitalocean.com/) T-Shirt :smile: 
 ### Thank you for your contribution :clap:
 ### Do Star :star: this repository
 ![](https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif)
