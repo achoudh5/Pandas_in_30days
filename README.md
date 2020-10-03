@@ -26,7 +26,7 @@
 ### Thank you for your contribution :clap:
 ### Do Star :star: this repository
 ### Interested in solving Industry problems?
-[Pleothera of issues](https://github.com/achoudh5/Manipulating_Excel_Sheet)
+  > [Pleothera of issues](https://github.com/achoudh5/Manipulating_Excel_Sheet)
 
 ![](https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif)
 
