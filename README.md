@@ -21,7 +21,7 @@
 ![](https://media.giphy.com/media/qSxNuLJsb5NPq/giphy.gif)
 
 
-
+### Add your name in Add your name in `CONTRIBUTING.md`
 ### Raise a PR :rocket: and get [Hacktoberfest 2020](https://hacktoberfest.digitalocean.com/) T-Shirt :smile: 
 ### Thank you for your contribution :clap:
 ### Do Star :star: this repository
