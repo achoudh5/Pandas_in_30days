@@ -3,6 +3,7 @@
   The person who owns this repo is mere face of it, it's you who are making a difference! Keep contributing :)
   
   **Please make a comment if you see I am missing any tag or label which might miss your contribution, I don't want that to happen that was the whole point.**
+# [Hall of Fame](https://github.com/achoudh5/Pandas_in_30days/blob/main/CONTRIBUTING.md)
 
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/achoudh5/Pandas_in_30days?color=florescent%20green) ![GitHub issues](https://img.shields.io/github/issues/achoudh5/Pandas_in_30days?color=red)
 # Pandas_in_30days
@@ -21,7 +22,7 @@
 
 
 
-### Add your name in Contributors.md, Raise a PR :rocket: and get [Hacktoberfest 2020](https://hacktoberfest.digitalocean.com/) T-Shirt :smile: 
+### Raise a PR :rocket: and get [Hacktoberfest 2020](https://hacktoberfest.digitalocean.com/) T-Shirt :smile: 
 ### Thank you for your contribution :clap:
 ### Do Star :star: this repository
 ![](https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif)
