@@ -7,6 +7,7 @@ data_frame1 = pd.read_csv(r'name_of_your_file1.csv')
 data_frame2 = pd.read_csv(r'name_of_your_file2.csv')
 
 dataframe_concat= pd.concat([data_frame1,data_frame2])
-
+# Another way of performing same operation
+dataframe_concat = data_frame1.append(data_frame2)
 #printing the concatenated data-frames as a data frame
 print (dataframe_concat)
